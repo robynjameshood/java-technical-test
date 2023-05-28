@@ -1,0 +1,10 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="technical-test:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/technical_test_jar</output-path>
+    <root id="archive" name="technical-test.jar">
+      <element id="module-output" name="technical-test" />
+      <element id="extracted-dir" path="$USER_HOME$/Documents/JARs/json-20230227.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$USER_HOME$/Documents/JARs/opencsv-5.7.1.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>
